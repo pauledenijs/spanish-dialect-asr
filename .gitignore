@@ -14,6 +14,7 @@ scratch/
 data/raw_audio/
 data/aligned_json/
 data/chunks
+data/raw_tsv
 *.wav
 *.mp3
 *.jsonl
